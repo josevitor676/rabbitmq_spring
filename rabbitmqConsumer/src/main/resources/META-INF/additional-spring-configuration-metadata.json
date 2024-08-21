@@ -1,0 +1,19 @@
+{
+    "properties": [
+        {
+            "name": "spring.rabbitmq.queueName",
+            "type": "java.lang.String",
+            "description": "A description for 'spring.rabbitmq.queueName'"
+        },
+        {
+            "name": "spring.jwt.secret",
+            "type": "java.lang.String",
+            "description": "A description for 'spring.jwt.secret'"
+        },
+        {
+            "name": "spring.url.api-producer",
+            "type": "java.lang.String",
+            "description": "A description for 'spring.url.api-producer'"
+        }
+    ]
+}
